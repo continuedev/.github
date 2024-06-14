@@ -5,3 +5,9 @@ _  /     _  __ \__  __ \_  __/__  / __  __ \_  / / /_  _ \
 / /___   / /_/ /_  / / // /_  _  /  _  / / // /_/ / /  __/
 \____/   \____/ /_/ /_/ \__/  /_/   /_/ /_/ \__,_/  \___/ 
 ```
+
+We are hiring! Read more about our current open positions:
+- [Full-Stack Engineer (3+ years)](https://www.ycombinator.com/companies/continue/jobs/eY7S4vH-full-stack-engineer)
+- [Full-Stack Engineer (6+ years)](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
+- [Developer Relations Engineer](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
+- [Customer Success Engineer](https://www.ycombinator.com/companies/continue/jobs/6azGoRi-customer-success-engineer)
