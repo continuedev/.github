@@ -7,7 +7,7 @@ _  /     _  __ \__  __ \_  __/__  / __  __ \_  / / /_  _ \
 ```
 
 We are hiring! Read more about our current open positions:
-- [Full-Stack Engineer (3+ years)](https://www.ycombinator.com/companies/continue/jobs/eY7S4vH-full-stack-engineer)
-- [Full-Stack Engineer (6+ years)](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
+- [Software Engineer (3+ years)](https://www.ycombinator.com/companies/continue/jobs/eY7S4vH-software-engineer)
+- [Software Engineer (6+ years)](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 - [Developer Relations Engineer](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer)
-- [Customer Success Engineer](https://www.ycombinator.com/companies/continue/jobs/6azGoRi-customer-success-engineer)
+- [Software Engineer (JetBrains Plugin)](https://www.ycombinator.com/companies/continue/jobs/6azGoRi-software-engineer-jetbrains-plugin)
