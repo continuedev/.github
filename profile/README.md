@@ -6,12 +6,6 @@ _  /     _  __ \__  __ \_  __/__  / __  __ \_  / / /_  _ \
 \____/   \____/ /_/ /_/ \__/  /_/   /_/ /_/ \__,_/  \___/ 
 ```
 
-**Source-controlled AI checks, enforceable in CI**
+**Pioneering open-source coding agent**
 
-## Getting started
-
-Paste this into your coding agent of choice:
-
-```
-Help me write checks for this codebase: https://continue.dev/walkthrough
-```
+Learn more at [continue.dev](https://continue.dev)
