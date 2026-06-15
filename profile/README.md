@@ -8,4 +8,6 @@ _  /     _  __ \__  __ \_  __/__  / __  __ \_  / / /_  _ \
 
 **Pioneering open-source coding agent**
 
+Acquired by [Cursor](https://cursor.com)
+
 Learn more at [continue.dev](https://continue.dev)
